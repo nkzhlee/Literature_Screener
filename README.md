@@ -1,4 +1,5 @@
 # Literature Screener
+This is a rapid research literature screener that is used to find the related paper by keywords.
 
 ## 1. Set Up Conda Python Environment
 To set up the Conda environment with the required dependencies, follow these steps:
